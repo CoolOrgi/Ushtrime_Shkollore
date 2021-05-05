@@ -1,0 +1,19 @@
+body {
+	font-family: 'Nunito', sans-serif;
+	background-image: url('Images/Hi.jpg');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;  
+  	background-size: cover;
+  	background-color:#d3d3d3;
+}
+
+h1, h4{
+	text-align: center;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+}
